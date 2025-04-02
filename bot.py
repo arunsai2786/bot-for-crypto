@@ -9,8 +9,8 @@ from ta.trend import MACD, SMAIndicator, EMAIndicator
 from telegram import Bot
 
 # 🔹 Set up Telegram bot
-TELEGRAM_TOKEN = "7636884771:AAGFLSZz7-fKHYoz5rUugdY8Cm9HIkxMyZw"
-CHAT_ID = "919949025"
+TELEGRAM_TOKEN = "your bot token"
+CHAT_ID = "your id"
 bot = Bot(token=TELEGRAM_TOKEN)
 
 # 🔹 Crypto IDX API URL
